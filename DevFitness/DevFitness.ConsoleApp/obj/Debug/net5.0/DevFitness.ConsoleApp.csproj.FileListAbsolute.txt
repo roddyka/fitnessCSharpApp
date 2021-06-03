@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.exe
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.deps.json
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.runtimeconfig.json
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.runtimeconfig.dev.json
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.dll
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\ref\DevFitness.ConsoleApp.dll
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\bin\Debug\net5.0\DevFitness.ConsoleApp.pdb
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.AssemblyInfo.cs
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.dll
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\ref\DevFitness.ConsoleApp.dll
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.pdb
+C:\Users\rodri\Documents\Work\Development\JornadaNet\DevFitness\DevFitness.ConsoleApp\obj\Debug\net5.0\DevFitness.ConsoleApp.genruntimeconfig.cache
